@@ -2,6 +2,6 @@ export class Paciente{
     nombre;
     apellido;
     edad;
-    sexo;
+    genero;
     disciplina;
 }
